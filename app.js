@@ -8,3 +8,4 @@ function calculate(){
 function clearAll() {
     displayInput.value = "";
 }
+// Github Hosting Done
